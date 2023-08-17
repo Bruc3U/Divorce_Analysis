@@ -59,10 +59,23 @@ Our goal will be to shed some light on the matter and figure out the main reason
 
 # II/Data Wrangling: 
 
-After setting the right directory.
+After setting the right directory and importing the right libraries.
+
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/d1bbaf9a-fd58-4f8a-9a5b-60dc31f17d86)
+
 
 The first step is to check for any missing values and duplicates. 
 
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/23e5a9bd-2776-4164-866c-d6446d92dbbd)
+
+No, duplicates or missing value was found. We will move on to the next step.
+
+# III/ Analysis:
+### A/Logistic Regression:
+
+Since the problem is binary, 1 for married and 0 for divorced. 
+
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/d2334344-5121-49b1-885b-4f6179ef3871)
 
 
 
