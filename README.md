@@ -23,7 +23,15 @@ The dataset is a collection of 170 couples and their answers. Those couples were
 
 The data was extracted via the UC Irvine Machine Learning Repository and can be found [here](http://archive.ics.uci.edu/dataset/497/divorce+predictors+data+set).
 
-#I/Defining the goal
+| Dataset Limitation | 
+|---|
+| No real information on the couples day to day life, limited context|
+| The panel is from a different country (Turkey) |
+| The questions had to be translated | 
+| The nature of the experiment can bring bias since all of those couples were already in therapy |
+
+
+# I/Defining the goal
 
 Marriage represents a huge chunk of our Western civilization. Marriage can be defined as the legally and formally recognized union of two people as partners in a personal relationship. 
 Despite a long history, nowadays nearly 50% of those sacred unions end up in a divorce. 
@@ -42,7 +50,9 @@ Source [Insider](https://www.insider.com/why-people-get-divorced-2019-1)
 
 Our goal will be to shed some light on the matter and figure out the main reasons to divorce thanks to machine learning. 
 
-#II/
+# II/
+
+
 
 
 
