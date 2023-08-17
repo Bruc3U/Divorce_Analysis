@@ -1,8 +1,6 @@
 # 💒 Divorce Analysis Project
 
-# Objective
-
-This project's goal is to determine the main reasons for divorce according to the given dataset. 
+![iStock_72610687_MEDIUM](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/54df4e63-4212-4e10-bc92-60d6cfe3acae)
 
 # Python Libraries Used
 
@@ -11,7 +9,11 @@ This project's goal is to determine the main reasons for divorce according to th
 - numpy
 - scikit-learn
 
-# About the dataset
+## Objective
+
+This project's goal is to determine the main reasons for divorce according to the given dataset. 
+
+## About the dataset
 
 The dataset is a collection of 170 couples and their answers. Those couples were asked the same 53 questions and were given a 5-point scale to answer them.
 
@@ -57,6 +59,9 @@ Our goal will be to shed some light on the matter and figure out the main reason
 
 # II/Data Wrangling: 
 
+After setting the right directory.
+
+The first step is to check for any missing values and duplicates. 
 
 
 
