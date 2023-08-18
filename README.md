@@ -160,6 +160,9 @@ This limits our analysis greatly and is reflected in our final thoughts.
 | 4. I think that one day when I look back, I will remember that I and my spouse have been in harmony with each other |
 | 5. I know exactly what my spouse's interests are | 
 
+If we compare our findings with the insiders, we can conclude that the data is heading in the right direction regarding predicting divorce.<br>
+Even with a different culture and the lack of context our results make sense and are believable.<br>
+But for use in the real world, predictors such as relationship lengths, number of kids, current job, and social status need to be added to the model to ensure long-term reliability. 
 
 
 
