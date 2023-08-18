@@ -156,7 +156,7 @@ This limits our analysis greatly and is reflected in our final thoughts.
 |---|
 | 1. My spouse and I have similar values that we trust|
 | 2. My spouse and I have similar ideas about how marriage should be |
-| 3. We're compatible with my spouse about what love should be | 
+| 3. We have a compatible view about what love should be | 
 | 4. I think that one day when I look back, I will remember that I and my spouse have been in harmony with each other |
 | 5. I know exactly what my spouse's interests are | 
 
