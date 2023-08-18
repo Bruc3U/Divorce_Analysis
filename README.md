@@ -141,4 +141,26 @@ After computing several models, we can finally draw conclusions and answer our q
 
 ![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/3a157633-7601-4dc2-af99-215d70711c35)
 
+According to our analysis, we can observe that more than half of the questions asked did not have a great impact on the final results.<br>
+Only a few questions had a real impact on the predictability of divorce.
+
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/74a0edd8-2a14-45ca-8556-78675b3a3645)
+
+With the married cluster being tight we can conclude that the questions really captured the predictability of such actions.<br>
+On the other hand, the second cluster, the divorced one seems to be sparse and less grouped. This reflects the data limitation previously stated.<br>
+Indeed, we do not have any additional information about the context of those couples. We do not know their age, history, job, social status...<br>
+This limits our analysis greatly and is reflected in our final thoughts.
+
+
+| The 5 most common predictors for divorce according to the dataset | 
+|---|
+| 1. My spouse and I have similar values that we trust|
+| 2. My spouse and I have similar ideas about how marriage should be |
+| 3. We're compatible with my spouse about what love should be | 
+| 4. I think that one day when I look back, I will remember that I and my spouse have been in harmony with each other |
+| 5. I know exactly what my spouse's interests are | 
+
+
+
+
 
