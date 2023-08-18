@@ -110,11 +110,17 @@ Let's re-run our logistic regression model with reduced Xs.
 
 ![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/b2eea6ea-501c-475e-90f8-a4370e770bcb)
 
-Confusion Matrix : 
- [[64  0]
- [ 4 51]]
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/228b1cce-209b-400d-9ba9-151846cff010)
+
 
  Accuracy: 96.64%
 
  ### C/Random Forest Classifier 
 
+
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/e16d31ee-d33d-4075-8ec3-e2560f0a7b58)
+
+
+ ![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/3a157633-7601-4dc2-af99-215d70711c35)
+
+# Conclusion
