@@ -73,9 +73,29 @@ No, duplicates or missing value was found. We will move on to the next step.
 # III/ Analysis:
 ### A/Logistic Regression:
 
-Since the problem is binary, 1 for married and 0 for divorced. 
+The nature of our data is binary, 1 for married and 0 for divorced, we will use a logistic regression for our first model. 
+
+The dependent variable will be the column Class, which represents the current marital status of our couples.<br>
+The rest of the columns will be our independent variables. 
 
 ![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/d2334344-5121-49b1-885b-4f6179ef3871)
+
+Accuracy: 96.64%
+
+
+It is pretty accurate but the main issue is the number of features, we do have 53 independent variables.<br>
+It could lead to overfitting the data. 
+
+
+### B/Principal Component Analysis 
+
+Principal Component Analysis (PCA), is a technique used to reduce the number of features.<br>
+PCA requires a set number of components. Those components act as 'compressed' data for easier processing. 
+
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/8ca8bc59-3ae5-44d2-b042-f5ba47714f33)
+
+The number of components will be two. 
+
 
 
 
