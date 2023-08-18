@@ -8,6 +8,7 @@
 - matplotlib
 - numpy
 - scikit-learn
+- statsmodel
 
 ## Objective
 
