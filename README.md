@@ -110,17 +110,35 @@ Let's re-run our logistic regression model with reduced Xs.
 
 ![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/b2eea6ea-501c-475e-90f8-a4370e770bcb)
 
+ Accuracy: 96.64%
+
 ![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/228b1cce-209b-400d-9ba9-151846cff010)
 
+Regarding the confusion matrix, we can observe that our model is highly accurate.<br>
+64 True positive and 51 True negative. With only 4 False negatives.
 
- Accuracy: 96.64%
 
  ### C/Random Forest Classifier 
 
+Let's try another algorithm to see if we can improve our previous model.
 
-![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/e16d31ee-d33d-4075-8ec3-e2560f0a7b58)
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/f00386b9-4f89-4beb-9b18-e5fac84a67c3)
+
+Accuracy: 96.64%
+
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/7a1aa6c6-a570-45ae-8498-912a4c465caf)
 
 
- ![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/3a157633-7601-4dc2-af99-215d70711c35)
+The random forest classifier gave us the same accuracy rate and a similar confusion matrix.<br>
+We will be using this model for our final analysis. 
+
 
 # Conclusion
+
+After computing several models, we can finally draw conclusions and answer our questions.
+
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/49396bba-23af-4d48-b060-b5be666672bd)
+
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/3a157633-7601-4dc2-af99-215d70711c35)
+
+
