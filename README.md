@@ -75,6 +75,8 @@ No, duplicates or missing value was found. We will move on to the next step.
 
 The nature of our data is binary, 1 for married and 0 for divorced, we will use a logistic regression for our first model. 
 
+After splitting the data into a train/test format.
+
 The dependent variable will be the column Class, which represents the current marital status of our couples.<br>
 The rest of the columns will be our independent variables. 
 
@@ -96,6 +98,13 @@ PCA requires a set number of components. Those components act as 'compressed' da
 
 The number of components will be two. 
 
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/4bee1f21-eb1e-4572-b207-47746b69d202)
 
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/e860d7de-8182-4dc0-b80a-3dcbc04cceff)
+
+As we can see, 75% of the data is found in the first component.<br>
+Having more than two components will have diminished returns.
+
+Let's rerun our logistic regression model with reduced Xs.
 
 
