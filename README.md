@@ -106,6 +106,15 @@ The number of components will be two.
 As we can see, 75% of the data is found in the first component.<br>
 Having more than two components will have diminished returns.
 
-Let's rerun our logistic regression model with reduced Xs.
+Let's re-run our logistic regression model with reduced Xs.
 
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/b2eea6ea-501c-475e-90f8-a4370e770bcb)
+
+Confusion Matrix : 
+ [[64  0]
+ [ 4 51]]
+
+ Accuracy: 96.64%
+
+ ### C/Random Forest Classifier 
 
