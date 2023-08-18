@@ -15,13 +15,15 @@ This project's goal is to determine the main reasons for divorce according to th
 
 ## About the dataset
 
-The dataset is a collection of 170 couples and their answers. Those couples were asked the same 53 questions and were given a 5-point scale to answer them.
+The dataset regroups the records of 170 couples. Those couples were asked the same 53 questions and were given a 5-point scale to answer them.
 
 - 0=never
 - 1=seldom
 - 2=Averagely
 - 3=frequently
 - 4=always
+
+The sample contained both married and divorced individuals marked by a 1 for married and a 0 for divorced. 
 
 The data was extracted via the UC Irvine Machine Learning Repository and can be found [here](http://archive.ics.uci.edu/dataset/497/divorce+predictors+data+set).
 
@@ -32,11 +34,9 @@ It is important to note any limitations given by the data itself. In order to fi
 | No real information on the couples day to day life, limited context|
 | The panel is from a different country (Turkey) |
 | The questions had to be translated | 
-| The nature of the experiment can bring bias since all of those couples were already in therapy |
 
 The panel being from a different country could affect the reason for divorce since the cultural expectation is different. In addition to that, no other context was given for those couples, we do not know their age, their psychological background, their family situation...<br>
-Another limitation is that all of the presented couples are already in therapy, the drawn conclusion could not apply to the average Western European couple that just met for instance. 
-
+Before drawing any conclusion we must refer to the context of the data to avoid any unrealistic conclusions. 
 
 # I/Defining the goal:
 
