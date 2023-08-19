@@ -82,7 +82,8 @@ After splitting the data into a train/test format.
 The dependent variable will be the column Class, which represents the current marital status of our couples.<br>
 The rest of the columns will be our independent variables. 
 
-![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/d2334344-5121-49b1-885b-4f6179ef3871)
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/b44d356e-1cb0-4a02-967b-426ab49069e5)
+
 
 Accuracy: 96.64%
 
@@ -102,14 +103,16 @@ The number of components will be two.
 
 ![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/4bee1f21-eb1e-4572-b207-47746b69d202)
 
-![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/e860d7de-8182-4dc0-b80a-3dcbc04cceff)
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/9c8958ee-cf9a-4ba6-8d00-03fee27440ad)
+
 
 As we can see, 75% of the data is found in the first component.<br>
 Having more than two components will have diminished returns.
 
 Let's re-run our logistic regression model with reduced Xs.
 
-![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/b2eea6ea-501c-475e-90f8-a4370e770bcb)
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/64ae2811-3ccd-4162-b1c5-0a97498df5d9)
+
 
  Accuracy: 96.64%
 
@@ -123,12 +126,11 @@ Regarding the confusion matrix, we can observe that our model is highly accurate
 
 Let's try another algorithm to see if we can improve our previous model.
 
-![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/f00386b9-4f89-4beb-9b18-e5fac84a67c3)
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/551073e2-afb5-401b-9c51-4999a96e1a8b)
 
 Accuracy: 96.64%
 
-![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/7a1aa6c6-a570-45ae-8498-912a4c465caf)
-
+![image](https://github.com/Bruc3U/Divorce_Analysis/assets/142362478/7bbf7bd0-8197-4ce8-8596-72614d35c080)
 
 The random forest classifier gave us the same accuracy rate and a similar confusion matrix.<br>
 We will be using this model for our final analysis. 
